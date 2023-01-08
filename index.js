@@ -21,9 +21,9 @@ const massEl = document.getElementById("mass-paragraph")
      ${input} feet = ${feetToMeter.toFixed(2)} meters`
 
     volumeEl.textContent = 
-    `${input} liters = ${litersToGallons.toFixed(2)} liters 
+    `${input} liters = ${litersToGallons.toFixed(2)} gallons 
     |
-     ${input} gallons = ${gallonsToLiters.toFixed(2)} gallons`
+     ${input} gallons = ${gallonsToLiters.toFixed(2)} liters`
      
      massEl.textContent = 
      `${input} kilos = ${kilosToPounds.toFixed(2)} kilos
