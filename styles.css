@@ -56,12 +56,12 @@ body {
 
 /* main section */
 
-.main {
+main {
     padding: 25px;
     background: #1F2937;
 }
 
-.section {
+section {
     background: #273549;
     padding: 50px;
     margin: 20px 10px;
